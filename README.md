@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ef999a&height=110" />
-<img src="https://capsule-render.vercel.app/api?color=599dc9&type=transparent&animation=fadeIn&height=100&text=Yeonhee's%20GitHub&fontSize=50&fontColor=ffffff&stroke=ef999a&strokeWidth=1.5">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ef999a&height=150" />
+<!--<img src="https://capsule-render.vercel.app/api?color=599dc9&type=transparent&animation=fadeIn&height=100&text=Yeonhee's%20GitHub&fontSize=50&fontColor=ffffff&stroke=ef999a&strokeWidth=1.5">-->
 
 
 <h3>📚Tech Stacks</h3>
