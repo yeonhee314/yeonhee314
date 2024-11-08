@@ -17,10 +17,11 @@
 
 <hr>
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonhee314)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f2e3ea&height=100&section=footer" />
+-->
 <!--<img src="https://capsule-render.vercel.app/api?type=transparent&color=9fd7ce&height=200&section=header&text=Thank%20You!&fontSize=30&stroke=ef999a&strokeWidth=1">-->
 
 
