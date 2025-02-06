@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 공부하는 개발자 김연희입니다. 🌱 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 저는 현재 프론트엔드와 백엔드 개발에 열정을 가지고 공부하고 있습니다.</li><br><br></li><li> 현재 프론트엔드 기술과 <b>React, Next.js</b>에 대해 공부하고 있으며 꾸준히 성장하고 있습니다.</li><li> <b>Spring Boot, API 연동</b> 등의 백엔드 기술을 다루며 실력을 쌓고 있습니다.</li><br> </div> 
+<!--     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 공부하는 개발자 김연희입니다. 🌱 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 저는 현재 프론트엔드와 백엔드 개발에 열정을 가지고 공부하고 있습니다.</li><br><br></li><li> 현재 프론트엔드 기술과 <b>React, Next.js</b>에 대해 공부하고 있으며 꾸준히 성장하고 있습니다.</li><li> <b>Spring Boot, API 연동</b> 등의 백엔드 기술을 다루며 실력을 쌓고 있습니다.</li><br> </div>  -->
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
